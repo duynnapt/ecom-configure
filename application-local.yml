@@ -19,10 +19,10 @@ spring:
                         - spanTraceId
                         - spanName
                         - messageSent
-ecom:
-    info:
-        description: "This is good start"
-        version: V1
-    kafka:
-        server: localhost
+#ecom:
+#    info:
+#        description: "This is good start"
+#        version: V1
+#    kafka:
+#        server: localhost
 
